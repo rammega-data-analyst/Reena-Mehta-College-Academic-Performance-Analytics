@@ -11,6 +11,10 @@ This project analyzes student academic performance at Reena Mehta College using 
 - Identify top-performing students.
 - Analyze student attendance percentage.
 - Present insights through an interactive Tableau dashboard.
+## Project Files
+- `Reena_Mehta_College_Academic_Performance_Dataset.xlsx` – Original dataset
+- `Reena_Mehta_College_Cleaned_Dataset.xlsx` – Cleaned dataset
+- `Project Final Dashboard Screenshot.png` – Tableau dashboard preview
 
 ## Tools & Technologies
 - Python
@@ -36,6 +40,13 @@ This project analyzes student academic performance at Reena Mehta College using 
 | Total Failed Students | 123 |
 | Average Attendance Percentage | 84.04% |
 
+## Key Insights
+- A total of 1,006 students are included in the analysis.
+- The overall pass percentage is 87.77%.
+- A total of 879 students passed, while 123 students failed.
+- The average student mark is 65.55.
+- The average attendance percentage is 84.04%.
+- Department-wise and semester-wise visualizations help compare academic performance.
 ## Dashboard Analysis
 The Tableau dashboard includes:
 
@@ -46,18 +57,8 @@ The Tableau dashboard includes:
 - Department-wise Pass Percentage
 - Interactive Filters for Department, Course, Gender, and Semester
 
-## Key Insights
-- A total of 1,006 students are included in the analysis.
-- The overall pass percentage is 87.77%.
-- A total of 879 students passed, while 123 students failed.
-- The average student mark is 65.55.
-- The average attendance percentage is 84.04%.
-- Department-wise and semester-wise visualizations help compare academic performance.
 
-## Project Files
-- `Reena_Mehta_College_Academic_Performance_Dataset.xlsx` – Original dataset
-- `Reena_Mehta_College_Cleaned_Dataset.xlsx` – Cleaned dataset
-- `Project Final Dashboard Screenshot.png` – Tableau dashboard preview
+
 
 ## Dashboard Preview
 
