@@ -12,16 +12,17 @@ This project analyzes student academic performance at Reena Mehta College using 
 - Analyze student attendance percentage.
 - Present insights through an interactive Tableau dashboard.
 ## Project Files
-- `Reena_Mehta_College_Academic_Performance_Dataset.xlsx` – Original dataset
+
 - `Reena_Mehta_College_Cleaned_Dataset.xlsx` – Cleaned dataset
-- `Project Final Dashboard Screenshot.png` – Tableau dashboard preview
 
 ## Tools & Technologies
+
+- Microsoft Excel
 - Python
 - Pandas
 - NumPy
 - Tableau Desktop
-- Microsoft Excel
+
 
 ## Data Cleaning & Preparation
 - Imported the raw academic dataset using Python.
@@ -65,4 +66,5 @@ The Tableau dashboard includes:
 ![Reena Mehta College Academic Performance Dashboard](Project%20Final%20Dashboard%20Screenshot.png)
 
 ## Conclusion
-This project demonstrates how Python-based data cleaning and Tableau visualization can be combined to analyze academic performance. The interactive dashboard provides useful insights into student results, attendance, department performance, and semester-wise academic trends.
+
+The analysis transforms raw academic data into meaningful information, highlighting student performance, attendance patterns, and departmental outcomes. The Tableau dashboard presents these findings in an easy-to-understand format, supporting better academic evaluation and informed decision-making.
